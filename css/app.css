@@ -1,0 +1,23 @@
+h1 {
+    text-align:center;
+    font-family:verdana;
+    color:Orange;
+}
+button {
+    width:200px;
+	height: 200px;
+	background: red;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+}
+#par {
+    text-align:center;
+}
+body {
+    background-color:white;
+}
+.start-over{
+    color:red;
+}
+
